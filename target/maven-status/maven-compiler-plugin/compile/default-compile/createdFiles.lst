@@ -1,0 +1,6 @@
+com/chumbok/meme/controller/MemeController.class
+com/chumbok/meme/Application.class
+com/chumbok/meme/service/MemeService.class
+com/chumbok/meme/util/FileUtils.class
+com/chumbok/meme/util/ImageUtils.class
+com/chumbok/meme/conf/ImageResourceConfiguration.class
